@@ -1,0 +1,9 @@
+[submodule "bsp/x-loader.git"]
+	path = bsp/x-loader.git
+	url = https://git.gitorious.org/x-loader/x-loader.git
+[submodule "bsp/u-boot-linaro-stable.git"]
+	path = bsp/u-boot-linaro-stable.git
+	url = http://git.linaro.org/git-ro/boot/u-boot-linaro-stable.git
+[submodule "tools/qemu-linaro"]
+	path = tools/qemu-linaro
+	url = http://git.linaro.org/git-ro/qemu/qemu-linaro.git
